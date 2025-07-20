@@ -41,7 +41,7 @@ Worked with employee compensation fairness data to assess diversity and inclusio
 
 ## 🔗 Live Tableau Dashboard
 
-👉 [View on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/shrabani.singha/viz/DeloitteDataAnalysis_17527660302790/DeloitteDashboard))
+👉 [View on Tableau Public](https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/shrabani.singha/viz/DeloitteDataAnalysis_17527660302790/DeloitteDashboard)
 
 ---
 
