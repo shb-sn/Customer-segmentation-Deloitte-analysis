@@ -1,4 +1,4 @@
-# 🧮 Customer Segmentation & Telemetry Analysis – Deloitte
+# 🧮 Customer Segmentation & Telemetry Analysis – Deloitte Australia
 
 This project was completed as part of the **Deloitte Australia Data Analytics Job Simulation (Forage, July 2025)**. The goal was to explore how data analytics supports business decisions by using real-world retail data.
 
