@@ -35,7 +35,7 @@ Worked with employee compensation fairness data to assess diversity and inclusio
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard_image.png)
+![Dashboard Screenshot](./dashboard_deloitte_image.png)
 
 ---
 
